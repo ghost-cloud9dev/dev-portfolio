@@ -1,0 +1,40 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    font-family: Helvetica;
+}
+
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#storename {
+    text-align: center;
+    background-image: url(/Users/codeofares/Documents/codecademy/DesmotoProject/resources/images/pattern.jpeg)
+}
+
+.brushes h2 {
+    background: mediumspringgreen;
+}
+
+.frames h2 {
+    background: lightcoral;
+}
+
+.paint h2 {
+    background: skyblue;
+}

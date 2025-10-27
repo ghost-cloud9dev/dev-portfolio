@@ -1,0 +1,41 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    background-color: antiquewhite;
+  }
+   
+   
+  h1 {
+    color: rgb(56, 78, 96);
+  }
+   
+   
+  p, 
+  li {
+    font-size: 18px;
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
+
+  .studentname {
+
+  }
+
+  .studentgif {
+    width: 300px;
+    height: auto;
+  }
+  .expectations {
+
+  }
+  .expectations, ol {
+    list-style-position: inside;
+  }
+
+  .favwebsitegif {
+    width: 300px;
+    height: auto;
+  }
